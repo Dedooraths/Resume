@@ -1,7 +1,8 @@
-Main Goal:
+Resume
+----------
 
-	Create a static multi-page site to use as a resume hub.
+A static multi-page website which acts as a basic resume hub.
 
-Tools:
+The main development stack is HTML/CSS/JS.
 
-	HTML/CSS/JS and firebase (or any other free hosting platform).
+The web page(s) can be hosted however one wishes. In my case, it will simply be hosted locally.
